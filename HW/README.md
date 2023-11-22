@@ -1,6 +1,6 @@
 # Homework Tasks
 Ссылка на [HW1](https://docs.google.com/presentation/d/14uwhDjVXnT5LSGlpU8c0iceisX9e54DkfLcQwOeFEww)
-Ссылки на 2 и 3 домашнии работы появятся по мере прохождения курса
+Ссылки на 2 и 3 домашние работы появятся по мере прохождения курса
 
 **REMARK** 
 
