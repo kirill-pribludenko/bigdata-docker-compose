@@ -10,9 +10,9 @@ py consumer_task1.py
 Other tasks are similar
 
 ## Result
-Task 1 - I couldn't make save checkpoint to hdfs, most likely problem is somewhere in the docker configuration
-Task 2 - For each window need to uncomment corresponding part of code
-Task 3 - I did it as I understood, I did not understand from the conditions where to send requests and to which database to save 
+* Task 1 - I couldn't make save checkpoint to hdfs, most likely problem is somewhere in the docker configuration
+* Task 2 - For each window need to uncomment corresponding part of code
+* Task 3 - I did it as I understood, I did not understand from the conditions where to send requests and to which database to save 
 
 
 ## Tips Command
